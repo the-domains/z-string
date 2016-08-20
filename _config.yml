@@ -1,0 +1,28 @@
+name: Z-String
+favicon: null
+layout_spectrum: 0.18754438823089004
+typography_spectrum: 0.4339890338014811
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6248055845499039
+  lightness: 0.29288762737996876
+  saturation: 0.7477604830637574
+  rhythmicContrast: 0.13853290537372231
+purpose: []
